@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Acadian Technology Private Limited as a Java Intern.<br>I'm continuously learning AIML
-
+I am currently working as a Java Intern at Acadian Technology Private Limited, where I am gaining hands-on experience in software development and enterprise-level applications. I am a continuous learner with a strong interest in Artificial Intelligence and Machine Learning, actively enhancing my skills to build intelligent and scalable solutions. I am passionate about learning new technologies and applying them to real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poojaverma29113) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pv9398377@gmail.com) 
